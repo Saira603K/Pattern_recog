@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch RecogImage",
+            "request": "launch",
+            "mainClass": "RecogImage",
+            "vmArgs": "-Djava.library.path=C:\\Users\\Asim_old_Dell_PC\\Pattern_Recog\\opencv\\build\\java\\x64",
+            "classPaths": ["C:\\Users\\Asim_old_Dell_PC\\Pattern_Recog\\opencv\\build\\java\\opencv-480.jar"]
+        }
+    ]
+}
